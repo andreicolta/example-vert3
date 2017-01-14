@@ -1,0 +1,21 @@
+Jan 14, 2017 08:27:34 +0000 [29379 1] com.newrelic INFO: Writing to New Relic log file: /var/lib/openshift/5658b8983c656673300000f6/app-root/runtime/repo/newrelic/logs/newrelic_agent.log
+Jan 14, 2017 08:27:34 +0000 [29379 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_101
+Jan 14, 2017 08:27:34 +0000 [29379 1] com.newrelic INFO: JVM vendor Oracle Corporation OpenJDK 64-Bit Server VM version 25.101-b13
+Jan 14, 2017 08:27:34 +0000 [29379 1] com.newrelic INFO: OS Linux version 2.6.32-573.8.1.el6.x86_64 arch amd64
+Jan 14, 2017 08:27:34 +0000 [29379 1] com.newrelic INFO: Agent Host: nodemedium.amakitu.com IP: 176.9.172.249
+Jan 14, 2017 08:27:34 +0000 [29379 1] com.newrelic INFO: New Relic Agent v3.15.0 is initializing...
+Jan 14, 2017 08:27:38 +0000 [29379 1] com.newrelic.instrumentation.grails-async-2.3 INFO: Disabled instrumentation "com.newrelic.instrumentation.grails-async-2.3"
+Jan 14, 2017 08:27:40 +0000 [29379 1] com.newrelic.instrumentation.servlet-user INFO: Disabled instrumentation "com.newrelic.instrumentation.servlet-user"
+Jan 14, 2017 08:27:46 +0000 [29379 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Jan 14, 2017 08:27:46 +0000 [29379 1] com.newrelic INFO: Setting audit_mode to false
+Jan 14, 2017 08:27:46 +0000 [29379 1] com.newrelic INFO: Setting protocol to "https"
+Jan 14, 2017 08:27:48 +0000 [29379 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /var/lib/openshift/5658b8983c656673300000f6/app-root/runtime/repo/newrelic/./newrelic.yml
+Jan 14, 2017 08:27:48 +0000 [29379 1] com.newrelic INFO: New Relic Agent v3.15.0 has started
+Jan 14, 2017 08:27:48 +0000 [29379 1] com.newrelic INFO: Agent class loader: sun.misc.Launcher$AppClassLoader@18b4aac2
+Jan 14, 2017 08:29:48 +0000 [29379 10] com.newrelic INFO: Display host name is nodemedium.amakitu.com for application Vert3x App
+Jan 14, 2017 08:29:49 +0000 [29379 10] com.newrelic INFO: Collector redirection to collector-199.newrelic.com:443
+Jan 14, 2017 08:29:49 +0000 [29379 10] com.newrelic INFO: Agent run id: 102750295020210918
+Jan 14, 2017 08:29:49 +0000 [29379 10] com.newrelic INFO: Agent 29379@nodemedium.amakitu.com/Vert3x App connected to collector.newrelic.com:443
+Jan 14, 2017 08:29:49 +0000 [29379 10] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/559057/applications/14449788
+Jan 14, 2017 08:29:49 +0000 [29379 10] com.newrelic INFO: Using RUM version 998 for application "Vert3x App"
+Jan 14, 2017 08:29:49 +0000 [29379 10] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "Vert3x App"
